@@ -124,6 +124,7 @@ include: ["_pages", "_scripts"]
 exclude:
   - bin/
   - _pages/profiles.md
+  - _pages/cv.md
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - Dockerfile
