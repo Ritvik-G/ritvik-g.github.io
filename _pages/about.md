@@ -26,4 +26,5 @@ My research focuses on bridging **general-purpose** models with **expert-level**
 
 Beyond academia, I work with industry collaborators to figure out the most efficient and cost-effective ways to optimize their workflows via Neuro-Symbolic methods. Currently, I serve as ***Advisor of Artificial Intelligence*** for [ADT](https://www.adt.com/) since August 2025.
 
-Quick Links: [Curriculum Vitae](), [Resume]()
+<!-- Quick Links: [Curriculum Vitae](), [Resume](https://github.com/Ritvik-G/Ritvik-G/blob/main/Resume.pdf) -->
+Quick Links: [Resume](https://github.com/Ritvik-G/Ritvik-G/blob/main/Resume.pdf)
